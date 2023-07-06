@@ -1,0 +1,78 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.menu-container{
+    background-color: rgb(31, 30, 30);
+    text-align: justify;
+   padding:10px;
+   /* justify-content: center; */
+   /* justify-content: space-between; */
+    
+}
+.logo1{
+    width: 100px;
+    padding: 30px;
+    margin-left: 1px;
+}
+.menu-container{
+    color: white;
+}
+.menu-container{
+    list-style:none;
+    display: flex;
+    align-items:center;
+    /* justify-content:space-between */
+    justify-content: space-around
+    
+}
+.menus{
+    display: flex;
+
+}
+.item{
+    margin-right: 20px;
+    padding-right: 20px;
+    font-size: 18px;
+    cursor: pointer;
+    
+}
+.item:hover{
+    color: aqua;
+}
+.img{
+    width: 300px;
+}
+.all{
+    display: flex;
+}
+.benner-conteiner{
+    display: flex;
+    justify-content: space-around;
+    height:100vh;
+    align-items: center;
+    /* padding: 150px; */
+    /* border: 2px solid gray; */
+    /* background-image: url(images/background.png),linear-gradient(45deg,#080808#000); */
+    background-image: url(https://img.freepik.com/free-vector/dark-gradient-background-with-copy-space_53876-99548.jpg?w=740&t=st=1688633969~exp=1688634569~hmac=9664a2517680388d2f2425cd1fa4f409050892f15e9963ef8a803273a7f72877);
+    color: white;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position:center;
+     
+
+}
+.t{
+    text-align: left;
+    font-size: 50px;
+    font-weight: bold;
+}
+.pp{
+    font-size:20px;
+}
+.ttt{
+
+ padding:10px 15px ;
+  background-color: red;
+  color: white;
+  border: none;
