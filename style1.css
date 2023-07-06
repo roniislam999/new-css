@@ -76,3 +76,10 @@
   background-color: red;
   color: white;
   border: none;
+  cursor: pointer;
+
+}
+.ttt:hover{
+    background-color: green;
+    
+}
