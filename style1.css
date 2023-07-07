@@ -84,6 +84,13 @@
     
 }
 .item1{
-    background-color: blue;
+    background-color: rgb(190, 28, 28);
     a
+    font-size: padding: 2px;
+    margin: 2px 3px;
+    
+}
+.a{
+    color: rgb(255, 255, 255);
+    font-size: bold;
 }
